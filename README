@@ -1,0 +1,17 @@
+Assignment Project :
+design document and report are in doc folder.
+data folder : all raw data sets and formatted data set (named data). 
+src folder : data_formatting folder; 
+             explore_data folder; 
+             main simulate_test function; 
+             four functions for graphs; 
+             scenarios folder (data analysis under each scenario); 
+             tests folder (input and output test functions for simulate_test function). 
+results folder : all created plots.
+doc folder : pdf of design document and report. 
+
+Note : for code to create plots in src folder under scenario section, 
+the chosen width is quite small due to the purpose of the report. Thus, 
+it may take some time to run. If just want to gain a general idea of how 
+power and size distributed, we suggest to choose a suitable width 
+(increment of the sequence).
